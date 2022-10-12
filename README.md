@@ -1,5 +1,5 @@
 <section align="center">
-  <h1> Hi there 👋, I'm Gabriel </h1>
+  <h1> Hi there 👋, I'm Gxelol </h1>
 
   <h2>I'm current studying to be a Front-end Developer, I hope you enjoy my profile!</h2>
   <br>
