@@ -23,6 +23,6 @@
 
 <!-- LINKS -->
 
-[discord-url]: https://discord.com/users/904871818316361769
+[discord-url]: https://discord.com/users/904870742993276989
 [linkedin-url]: https://www.linkedin.com/in/gabriel-quint%C3%A3o-69ab16252/
 [dev.to-url]: https://dev.to/gxelol
