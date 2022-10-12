@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Gabriel
 
-I'm current studying to be a Front-end Developer, I hope you enjoy my profile!
+<h1>I'm current studying to be a Front-end Developer, I hope you enjoy my profile!</h1>
 
-Medias:
+<h4>Medias:</h4><br>
 ![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 
-Languages: 
+<h4>Languages:</h4><br> 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
