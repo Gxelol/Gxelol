@@ -9,8 +9,6 @@
   <br>
   [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)][discord-url]
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin-url]
-  [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)][dev.to-url]
-
 
   <b>Languages:</b>
   <br>
@@ -27,4 +25,3 @@
 
 [discord-url]: https://discord.com/users/904870742993276989
 [linkedin-url]: https://www.linkedin.com/in/gabriel-gon%C3%A7alves-69ab16252/
-[dev.to-url]: https://dev.to/gxelol
