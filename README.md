@@ -6,12 +6,12 @@ Passionate Full Stack Developer specializing in building scalable web applicatio
 
 ---
 
-### 📱 Contact & Links
+### Contact & Links
 [Discord](https://discord.com/users/904870742993276989) | [LinkedIn](https://www.linkedin.com/in/gabriel-gon%C3%A7alves-69ab16252/)
 
 ---
 
-### 🛠️ Technologies
+### Technologies
 
 #### Languages & Frameworks:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
